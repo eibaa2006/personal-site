@@ -1,0 +1,16 @@
+body {
+  background-color: #FDF6F0;
+  font-style: normal;
+
+}
+.image {
+  border-radius: 50%;
+  width: 100px
+}
+
+.h2 {
+  background-color: #7E47BD;
+  align-items: center;
+
+
+}
